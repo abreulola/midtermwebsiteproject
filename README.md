@@ -20,18 +20,17 @@
 <h2>How to Navigate DC Eats!</h2>
 <p2>Restaurant reviews will be categorized by neighrbohoods followed by a 5 star review system. There are a number of factors I take into consideration when performing a review. They include: the ambiance, the food, and the price point of the restaurant. </p2>
 
-          <!DOCTYPE html>
-<h1> Georgetown<h1>
-<h2>Top 3 Hidden Gems in Georgetown!"<h1>
-<h3>Leopold's Cafe<h3> 
- 
-<p1> Ambiance:This european style like cafe is most likely a spot most visitors or locals miss. Its located in Cadey's Alley away from the chaos of mstreet. Customers are transported to what feels like a quaint restaurant in a small european town.</p1>
- 
-<p2> Food: When the DC weather begins to warm up, this is definitely one of my go to brunch options. Not only is the food great, but the brunch special drinks are great as well. My personal favorite menu items are the croque madame and the quiche!</p2>
- 
-<p2> Price Point: I think the brunch at Leopold's is a steal! Their dinner menu items are a little bit on the pricier side but that is how most georgetown restaurants are like.<p2>
- 
-<p2> Rating: Overall I give Leopold's Cafe 4 starts out of 5. The 1 point deduction is mainly due to their hit or miss service but the ambiance and the food is what really makes me a loyal customer!<p2>
- 
-<h3> Lutece<h3>
-<p3> Ambiance:
+<h1>Georgetown</h1>
+ <h2>Top Three Hidden Gems in Georgetown</h2>
+          <h3>Cafe Leopold's<h3>
+           <h5>Ambiance:This european syle like cafe is most likely a spot visitors or locals will miss. Its locatedin Cadey's Alley away from the chaos of mstreet. Customers are transported to what feels like a quaint restaurant in a small european town!<h5>
+            <h5>Food: When the DC weather begins to warm up, this is definitely one of my go to brunch spots! The menu has a variety of options that can satisfy anyone's sweet or savory mood. Their brunch drink specials range from a classic mimosa to crafty cocktails! 
+             <h5>Price: Whether you are dining for brunch, lunch, or dinner; the prices at Leopolds are a steal for the quality of food you are getting! 
+              <h5>Rating: Overall, I give Leopold's Cafe 4 stars out of 5! My one star deduction is mainly due to their service which can be a hit or a miss. 
+            <h3> Lutece<h3>
+             <h5>Ambiance: This neo french style restaurant is perfect for date nights or a girls night out! This intimate restaurant, gives customers a chance to experience french food in a more casual manner. Individuals are able to see their meal being prepped due to the open kitchen concept. It is the perfect place for young adults and adults to dine! 
+              <h5>Food: The best part about Lutece is that it changes its menu due to whats available during the season. This allows the dishes to have the finest ingredients and customers are able to experience new dishes every visit! 
+               <h5>Price:
+             
+          
+  
