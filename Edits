@@ -7,3 +7,24 @@ body{
   }
   a:active{ 
     opacity:0.7;
+}
+.page a.active{
+  opacity:1;
+}
+i,em{ 
+  font-style:italic;
+}
+b,
+strong{
+  font-weight:bolder;
+}
+sub,
+sup{ 
+  position:relative;
+  vertical-align:
+}
+sub{
+  top:.03em;
+}
+sup{
+top:-.04em;
