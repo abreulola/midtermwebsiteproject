@@ -28,3 +28,27 @@ sub{
 }
 sup{
 top:-.04em;
+}
+s{
+  text-decoration: line-through; 
+}
+img{
+  border:0;
+  padding:0;
+}
+ul,
+ol{
+  margin:0;
+  padding: 0 0 0 2 em;
+}
+hr{
+  background:rgba(27,129,44,1);
+  border:0;
+  height: 3px;
+  display:block;
+  margin-bottom: 1.2rem;
+  }
+  .content img {
+    margin-bottom:0;
+  }
+.gallery_image_caption{
