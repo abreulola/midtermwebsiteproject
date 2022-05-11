@@ -2,7 +2,7 @@
  
 ### DC EAT
 
-# Paragraph 1 Attending undergrad and graduate school in Washington DC has allowed me to embrace all the unique restaurants DC has to offer. Going out to new restaurants not only allows you to experience new food but also embrace different DC neighrborhoods. Eating out is a way to explore DC whether you are born and bread washingtonion or new to the district! 
+### heading Attending undergrad and graduate school in Washington DC has allowed me to embrace all the unique restaurants DC has to offer. Going out to new restaurants not only allows you to experience new food but also embrace different DC neighrborhoods. Eating out is a way to explore DC whether you are born and bread washingtonion or new to the district! 
 
 ```markdown
 Syntax highlighted code block
