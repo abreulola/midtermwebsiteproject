@@ -52,3 +52,22 @@ hr{
     margin-bottom:0;
   }
 .gallery_image_caption{
+  margin-top:,8rem; 
+  margin-bottom: ,05rem; 
+  font-size:1.3rem; 
+  font-weight:500;
+  color:rgba(27,129,44,1);
+  font-family: "Favorit',Icons;
+  font-style:normal'
+  line-height:1.3
+  text-align;left;
+ }
+
+/** 
+*Site Menu 
+*/ 
+[data-css-preset]#site_menue_button{
+  color:rgba(27,129,44,1):
+  line-height1; 
+  font-size:30px
+  
