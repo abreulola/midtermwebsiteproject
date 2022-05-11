@@ -30,7 +30,7 @@
             <h3> Lutece<h3>
              <h5>Ambiance: This neo french style restaurant is perfect for date nights or a girls night out! This intimate restaurant, gives customers a chance to experience french food in a more casual manner. Individuals are able to see their meal being prepped due to the open kitchen concept. It is the perfect place for young adults and adults to dine! 
               <h5>Food: The best part about Lutece is that it changes its menu due to whats available during the season. This allows the dishes to have the finest ingredients and customers are able to experience new dishes every visit! 
-               <h5>Price:
+               
              
           
   
